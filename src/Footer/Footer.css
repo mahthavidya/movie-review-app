@@ -1,0 +1,17 @@
+footer {
+  padding: 5rem, 0;
+  background-color: #182334;
+  color: #fff;
+}
+footer h2 {
+  color: #fff;
+}
+
+footer li {
+  list-style: none;
+  font-size: 1.5rem;
+  font-weight: lighter;
+  color: #fff;
+  cursor: pointer;
+  margin: 1rem, 0;
+}

@@ -1,0 +1,17 @@
+/* .container {
+  /* position: absolute;
+  top: 10%;
+  left: 23%;
+  width: 50%;
+} */
+*/ .text {
+  display: inline;
+  /* width: 100%; */
+  font-size: small !important;
+  font-weight: 600 !important;
+}
+
+.read-or-hide {
+  color: rgb(192, 192, 192);
+  cursor: pointer;
+}
