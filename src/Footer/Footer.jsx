@@ -56,13 +56,13 @@ const Footer = () => {
                 <br />
                 <Box>
                   <Link href="#" color="inherit">
-                    Registers
+                    Register
                   </Link>
                 </Box>
                 <br />
                 <Box>
                   <Link href="#" color="inherit">
-                    Privacys
+                    Privacy
                   </Link>
                 </Box>
                 <br />
@@ -70,7 +70,7 @@ const Footer = () => {
               <Grid item xs={12} sm={4}>
                 <Box borderBottom={1}>
                   {" "}
-                  <h3>Accounts</h3>
+                  <h3>Account</h3>
                 </Box>
                 <Box>
                   <br />
