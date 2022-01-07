@@ -62,7 +62,7 @@ const Footer = () => {
                 <br />
                 <Box>
                   <Link href="#" color="inherit">
-                    Privacy
+                    Privacys
                   </Link>
                 </Box>
                 <br />
